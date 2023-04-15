@@ -1,0 +1,64 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+.header-main {
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.banner-main {
+  margin: 10px 0;
+  background-image: url('../images/pattern.jpeg');
+}
+
+.banner-section {
+  margin: 10px 0;
+}
+
+.bg-red {
+  background-color: lightcoral;
+}
+
+.bg-blue {
+  background-color: skyblue;
+}
+
+.bg-green {
+  background-color: mediumspringgreen;
+}
+
+.txt-khaki {
+  color: khaki;
+}
+
+.txt-white {
+  color: white;
+}
+
+.txt-blue{
+  color: blue;
+}
+.txt-align-cntr {
+  text-align: center;
+}
+
+.txt-align-cntr {
+  text-align: center;
+}
+
+.txt-lrg {
+  font-size: 100px;
+}
+
+.txt-md {
+  font-size: 32px;
+}
+
+.txt-sm {
+  font-size: 20x;
+}
+
+.txt-bold {
+  font-weight: bold;
+}
